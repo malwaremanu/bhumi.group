@@ -1,0 +1,1 @@
+{"id":"ee847e50-9583-4877-a1f1-64ad1fa0092b","space":23306,"runtime":"python3.9","name":"dj_test2","path":"nt99wj","project":"c0qm30mo","account":"144798365827","region":"ap-southeast-1","deps":["django","uvicorn","gunicorn"],"envs":null,"public":false,"log_level":"off","cron":""}
