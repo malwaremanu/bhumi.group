@@ -31,7 +31,7 @@ runs:
       shell: bash
       run: |
         export DETA_ACCESS_TOKEN=${{ secrets.DETAKEY }}
-        cd ${{ inputs.deta-project-dir }}
+        cd dj_test2
         ~/.deta/bin/deta clone --name dj_test2 --project default tmp/
         cp -r tmp/.deta .
     # Using the access token, deploy the project to Deta
